@@ -1,6 +1,6 @@
 # Sites com exercícios para praticar
 
- - Exercism: https://exercism.org
- - Codewars: https://www.codewras.com
- - Codingame: https://www.codingame.com
- - Hackerrank: https://www.hackerrank.com
+ - Exercism: <a href="https://exercism.org">
+ - Codewars: <a href="https://www.codewars.com">
+ - Codingame: <a href="https://www.codingame.com">
+ - Hackerrank: <a href="https://www.hackerrank.com">
